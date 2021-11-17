@@ -5,13 +5,13 @@ ITMO student, Faculty of Information Technology and Programming, Applied Mathema
 Skills: C++ 17, Java, Qt 5, CMake, Gradle, bash, Git, ООП, Паттерны проектирования
 
 <div align="center" >
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelosG&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelosG&layout=compact&theme=tokyonight&langs_count=8"  alt="Most Used Languages"/>
 </div>
 
-<span class='spacer'></span>
-  
-<div align="center" class='links'>
+<span class='Spacer_because_styles_does_not_work_on_github'></span>
+
+<div align="center" style='margin: 10px;'>
   <a href='https://github.com/NelosG'> 
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
