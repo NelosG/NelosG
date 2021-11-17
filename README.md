@@ -2,7 +2,7 @@
 
 ITMO student, Faculty of Information Technology and Programming, Applied Mathematics and Computer Science
 
-Skills: C++ 17, Java, Qt 5, CMake, Gradle, bash, Git, ООП, Паттерны проектирования
+**Skills:** C++ 17, Java, Qt 5, CMake, Gradle, bash, Git, ООП, Паттерны проектирования
 
 <div align="center" >
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
