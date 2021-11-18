@@ -1,5 +1,5 @@
 ### NelosG
- ![](https://visitor-badge.glitch.me/badge?page_id=NelosG.NelosG) 
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NelosG&color=1b1b27&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Visitors&text=&cache=on)
 
 
 ITMO student, Faculty of Information Technology and Programming, Applied Mathematics and Computer Science
