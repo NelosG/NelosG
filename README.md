@@ -1,4 +1,6 @@
 ### NelosG
+ ![](https://visitor-badge.glitch.me/badge?page_id=NelosG.NelosG) 
+
 
 ITMO student, Faculty of Information Technology and Programming, Applied Mathematics and Computer Science
 
@@ -22,3 +24,4 @@ ITMO student, Faculty of Information Technology and Programming, Applied Mathema
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'> 
   </a>
 </div>
+  
