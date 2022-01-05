@@ -8,7 +8,7 @@ ITMO student, Faculty of Information Technology and Programming, Applied Mathema
 
 <div align="center" >
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
-  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelosG&layout=compact&theme=tokyonight&langs_count=8"  alt="Most Used Languages"/>
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelosG&layout=compact&theme=tokyonight&hide=Jupyter Notebook&langs_count=8"  alt="Most Used Languages"/>
 </div>
 
 <span class='Spacer_because_styles_does_not_work_on_github'></span>
