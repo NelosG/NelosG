@@ -1,10 +1,10 @@
 ### NelosG
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NelosG&color=1b1b27&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Visitors&text=&cache=on)
+<!-- ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NelosG&color=1b1b27&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Visitors&text=&cache=on) -->
 
 
 ITMO student, Faculty of Information Technology and Programming, Applied Mathematics and Computer Science
 
-**Skills:** C++ 17, Java, Qt 5, CMake, Maven, bash, Git, Haskell, ООП, Паттерны проектирования
+**Skills:** C++, Java, CMake, Maven, shell, Git, Haskell, ML, OSGi
 
 <div align="center" >
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
