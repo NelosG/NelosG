@@ -4,7 +4,7 @@
 
 ITMO student, Faculty of Information Technology and Programming, Applied Mathematics and Computer Science
 
-**Skills:** C++, Java, CMake, Maven, shell, Git, Haskell, ML, OSGi
+**Skills:** Java, Spring, Maven, OSGi, C++, CMake, shell, Git, Haskell, ML, Databases
 
 <div align="center" >
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
