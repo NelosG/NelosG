@@ -7,7 +7,7 @@ ITMO student, Faculty of Information Technology and Programming, Applied Mathema
 **Skills:** Java, Spring, Maven, OSGi, C++, CMake, shell, Git, Haskell, ML, Databases
 
 <div align="center" >
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
+  <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=NelosG&show_icons=true&count_private=true&theme=tokyonight"  alt="Stats"/>
 <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelosG&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&langs_count=8"  alt="Most Used Languages"/>
 </div>
 
